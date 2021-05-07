@@ -1,0 +1,7 @@
+package nLayeredDemo.entities.concretes;
+
+import nLayeredDemo.entities.absracts.Entity;
+
+public class User implements Entity{
+
+}

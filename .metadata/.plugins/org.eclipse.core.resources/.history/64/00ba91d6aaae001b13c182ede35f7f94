@@ -1,0 +1,9 @@
+package nLayeredDemo.business.concretes;
+
+import nLayeredDemo.business.absracts.UserService;
+
+public class UserManager implements UserService {
+
+	
+	
+}

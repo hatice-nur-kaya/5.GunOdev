@@ -1,0 +1,8 @@
+package nLayeredDemo.dataAccess.concretes;
+
+import nLayeredDemo.dataAccess.absracts.UserDao;
+
+public class EmailLogger implements UserDao {s
+	
+
+}

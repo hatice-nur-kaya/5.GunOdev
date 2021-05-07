@@ -1,0 +1,6 @@
+package nLayeredDemo.business.absracts;
+
+public interface UserService {
+
+
+}

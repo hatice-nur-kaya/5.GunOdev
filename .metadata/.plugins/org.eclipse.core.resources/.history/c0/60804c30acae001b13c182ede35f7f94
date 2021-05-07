@@ -1,0 +1,36 @@
+package nLayeredDemo.business.concretes;
+
+import java.util.List;
+
+import nLayeredDemo.business.absracts.UserService;
+import nLayeredDemo.entities.concretes.User;
+
+public class UserManager implements UserService {
+
+	@Override
+	public void register(String email, String password, User user) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void logIn(String email, String password) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public List<User> getAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void googleRegister(User user) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+	
+}

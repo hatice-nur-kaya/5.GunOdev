@@ -1,0 +1,8 @@
+package nLayeredDemo.dataAccess.concretes;
+
+
+public class HibernateDao implements UserDao {
+
+	
+
+}

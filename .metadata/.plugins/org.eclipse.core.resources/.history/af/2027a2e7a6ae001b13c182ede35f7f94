@@ -1,0 +1,5 @@
+package nLayeredDemo.dataAccess.absracts;
+
+public interface UserDao {
+
+}

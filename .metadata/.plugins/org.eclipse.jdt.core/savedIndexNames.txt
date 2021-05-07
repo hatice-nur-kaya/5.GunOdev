@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\haticenur\Desktop\5.GunOdev\.metadata\.plugins\org.eclipse.jdt.core
+1662216653.index
+4245836825.index

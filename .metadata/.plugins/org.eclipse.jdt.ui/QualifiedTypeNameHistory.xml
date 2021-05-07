@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.w3c.dom.Entity"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.entities.absracts.Entity"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.dataAccess.absracts.UserDao"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.core.GoogleLogInService"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.regex.Pattern"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.entities.concretes.User"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.business.absracts.UserService"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.business.concretes.UserManager"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.dataAccess.concretes.HibernateDao"/>
+    <fullyQualifiedTypeName name="nLayeredDemo.core.GoogleLogIn"/>
+</qualifiedTypeNameHistroy>
